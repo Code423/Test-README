@@ -18,7 +18,7 @@
 
 ### 👯 I’m looking to collaborate on: 
 
-> - Open-source projects that simulate real-world labor market scenarios;\and collaborative projects to develop communication skills.
+> - Open-source projects that simulate real-world labor market scenarios;\ and collaborative projects to develop communication skills.
 
 ### 🗣 Languages:
 
