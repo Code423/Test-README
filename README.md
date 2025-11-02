@@ -31,7 +31,8 @@
 
 
 ###📫 How to reach me?
- > - [**Linkedin:** ](https://www.linkedin.com/in/anas-sasa-794881336)
+ > - **LinkedIn:** [in/anas-sasa-794881336](https://www.linkedin.com/in/anas-sasa-794881336)
+
 
 - **__________________________________________**
   
