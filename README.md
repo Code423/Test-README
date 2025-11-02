@@ -27,14 +27,14 @@
 ### 🎯 My Goal:
 
 > - Professionalism in building and developing  webs and web applications.
-> - To start a tech channel on "YouTube" and "TikTok" to document my coding journey and help other beginners.
+> - To start a tech channel on "YouTube" and "TikTok" to document<br>my coding journey and help other beginners.
 
 
 ###📫 How to reach me?
  > - **LinkedIn:** [in/anas-sasa-794881336](https://www.linkedin.com/in/anas-sasa-794881336)
 
 
-- **__________________________________________**
+- **_____________________________________________________________**
   
 - ### My Projects
 
