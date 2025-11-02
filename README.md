@@ -9,8 +9,7 @@
 ### 🔭 I’m currently working on:
 
 > - Improving my problem-solving with Python, working,
-> - At this moment, I create a structural plan for a program that stores daily task data
-> - to generate a monthly report on these tasks or anything that is dealt with during the day, using the Python language.
+> - At this moment, I create a structural plan for a program that stores daily task data<br>to generate a monthly report, using the Python language.
 
 ### 🌱 I’m currently learning: 
 
