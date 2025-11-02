@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-### 🔭 I’m currently working on:**
+### 🔭 I’m currently working on:
 
 > - Improving my problem-solving with Python, working,
 > - At this moment, I create a structural plan for a program that stores daily task data
@@ -30,11 +30,11 @@
 > - To start a tech channel on "YouTube" and "TikTok" to document<br>my coding journey and help other beginners.
 
 
-###📫 How to reach me?
+### 📫 How to reach me?
  > - **LinkedIn:** [in/anas-sasa-794881336](https://www.linkedin.com/in/anas-sasa-794881336)
 
 
----
+***
   
 - ### My Projects
 
