@@ -8,8 +8,8 @@
 
 ### 🔭 I’m currently working on:
 
-> - Improving my problem-solving with Python, working,
-> - At this moment, I create a structural plan for a program that stores daily task data<br>to generate a monthly report, using the Python language.
+> - Improving my problem-solving with Python by working at this moment, on a structural plan<br>for a program that stores daily task data and generates a monthly report about its activities,<br>using the Python language.
+
 
 ### 🌱 I’m currently learning: 
 
