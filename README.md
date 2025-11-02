@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-###🔭 I’m currently working on:
+**🔭 I’m currently working on:**
 
 > - Improving my problem-solving with Python, working,
 > - At this moment, I create a structural plan for a program that stores daily task data
