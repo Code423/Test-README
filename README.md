@@ -40,7 +40,7 @@
 
 **Here are a few projects I've built**:
 
-### Password Generato:
+### 1- Password Generato:
 
 > - A software to generate storng passwords
 
@@ -49,7 +49,7 @@
 > - 📂 Repository: https://github.com/Anas-Sasa/Password-Generator.git
 
 
-### Contact Management:
+### 2- Contact Management:
 
 > - A procedural programming exercise built to practice core Python skills.
 
@@ -58,3 +58,37 @@
 > - Tech: Using Python
 
 > - 📂 Repository: https://github.com/Anas-Sasa/Contact-Management.git
+
+
+### 3- Hang-Man-Game:
+
+> - A procedural programming exercise built to practice core Python skills.
+
+> - Focus on:  List operations, "If statement" & Join and slicing methods
+
+> - Tech: Using Python
+
+> - 📂 Repository: https://github.com/Anas-Sasa/Hang-Man-game.git
+
+
+### 4- Blackjack-Game:
+
+> - A procedural programming exercise built to practice programming logic and doing code exercises.
+
+> - **Focus on:** Programming logic and code exercises
+
+> - **Tech:** Using Python
+
+> - 📂 Repository: https://github.com/Anas-Sasa/BlackJack-Game.git
+
+
+### 5- Turtles-Racing-Game:
+
+> - This an OOP exercise project to creating a graphical turtle racing game.
+
+> - **Focus on:** It demonstrates core programming concepts like loops, functions, lists, user input, conditional logic,<br>and random number generation in a visual and interactive way.
+
+> - **Tech:** Using Python Turtle module
+
+> - 📂 Repository: https://github.com/Anas-Sasa/Turtle-Race-Game.git
+
