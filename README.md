@@ -6,25 +6,25 @@
 
 ### 🚀 About Me
 
-**🔭 I’m currently working on:**
+### 🔭 I’m currently working on:**
 
 > - Improving my problem-solving with Python, working,
 > - At this moment, I create a structural plan for a program that stores daily task data
 > - to generate a monthly report on these tasks or anything that is dealt with during the day, using the Python language.
 
-###🌱 I’m currently learning: 
+### 🌱 I’m currently learning: 
 
 > - Python, Git and Github
 
-###👯 I’m looking to collaborate on: 
+### 👯 I’m looking to collaborate on: 
 
 > - Open-source projects that simulate real-world labor market scenarios;  and collaborative projects to develop communication skills.
 
-###🗣Languages:
+### 🗣 Languages:
 
 > - I speak Arabic, Dutch and English! ( Ik spreek Nederlands op niveau 2 ! ).
 
-###🎯 My Goal:
+### 🎯 My Goal:
 
 > - Professionalism in building and developing  webs and web applications.
 > - To start a tech channel on "YouTube" and "TikTok" to document my coding journey and help other beginners.
