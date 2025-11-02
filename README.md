@@ -50,7 +50,7 @@
 
 ### Contact Management:
 
-A procedural programming exercise built to practice core Python skills.
+> - A procedural programming exercise built to practice core Python skills.
 
 > - Focus on:  Practicing functions, loops, conditionals, dictioneries and data structures
 
