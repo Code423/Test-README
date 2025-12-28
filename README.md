@@ -43,7 +43,7 @@
   
 - ### My Projects
 
-**Here are a few projects I've built**:
+**Automation & Utilities**:
 
 ### 1- Password Generato:
 
@@ -51,7 +51,7 @@
 
 > - Tech: Using Python's random, string, os, and time modules
 
-> - 📂 Repository: https://github.com/Anas-Sasa/Password-Generator.git
+> - **[Password-Generator](https://github.com/Anas-Sasa/Password-Generator):**
 
 
 ### 2- Contact Management:
@@ -65,18 +65,22 @@
 > - **[Contact-Management](https://github.com/Anas-Sasa/Contact-Management):**
 
 
-### 3- Hang-Man-Game:
+### 3- Task-Tracker (File System & Data Automation):
 
-> - A procedural programming exercise built to practice core Python skills.
+> - An automation tool that manages local data storage through dynamic directory and CSV file generation.
 
-> - Focus on: ist operations, if statements, and join and slicing methods
+> - Focus on: Object-Oriented Programming (OOP), File I/O automation, and hierarchical data structures.
 
-> - Tech: Using Python's os, random, time modules
+> - Tech: Python (OS, CSV, and Pathlib modules).
 
-> - **[Hang-Man-game](https://github.com/Anas-Sasa/Hang-Man-game):**
+> - **[Task-Tracker](https://github.com/Anas-Sasa/Task-Tracker)**
+
+***
+
+**🎮 Games & Logic**:
 
 
-### 4- Blackjack-Game:
+### 1- Blackjack-Game:
 
 > - A procedural programming exercise designed to practice programming logic and complete coding exercises
 
@@ -84,10 +88,10 @@
 
 > - **Tech:** Using Python's random, os, string, time modules
 
-> - 📂 Repository: https://github.com/Anas-Sasa/BlackJack-Game.git
+> - **[BlackJack-Game](https://github.com/Anas-Sasa/BlackJack-Game):**
 
 
-### 5- Turtles-Racing-Game:
+### 2- Turtles-Racing-Game:
 
 > - This is an OOP exercise project for creating a graphical turtle racing game
 
@@ -96,10 +100,10 @@ input windows, conditional logic, and interacting with turtle module objects
 
 > - **Tech:** Using Python's Turtle, Screen, ramdom, times, os modules
 
-> - 📂 Repository: https://github.com/Anas-Sasa/Turtle-Race-Game.git
+> - **[Turtle-Race-Game](https://github.com/Anas-Sasa/Turtle-Race-Game):**
 
 
-### 6- Ping-Pong-Game:
+### 3- Ping-Pong-Game:
 
 > - This is an OOP exercise involving dividing the project into files, using inheritance,<br>
 implementing movement, and creating a graphical interface with the turtle module
@@ -109,10 +113,10 @@ movement logic, and inheritance using the turtle module
 
 > - **Tech:** Using Python's turtle, screen, random, time, and os modules
 
-> - 📂 Repository: https://github.com/Anas-Sasa/Ping-Pong-Game.git
+> - **[Ping-Pong-Game](https://github.com/Anas-Sasa/Ping-Pong-Game):**
 
 
-### 7- Snake-Game:
+### 4- Snake-Game:
 
 > - The game is developed using OOP to practice splitting the project into files,<br>
 implementing movement logic, and creating a graphical interface with a snake using the turtle module
@@ -122,10 +126,18 @@ turtle methods, and merging the project into a single file
 
 > - **Tech:** Using Python's Turtle, Screen, random, time and os modules
 
-> - 📂 Repository: https://github.com/Anas-Sasa/Snake-Game.git
+> - **[Snake-Game](https://github.com/Anas-Sasa/Snake-Game):**
 
 
+### 5- Hang-Man-Game:
 
+> - A procedural programming exercise built to practice core Python skills.
+
+> - Focus on: ist operations, if statements, and join and slicing methods
+
+> - Tech: Using Python's os, random, time modules
+
+> - **[Hang-Man-game](https://github.com/Anas-Sasa/Hang-Man-game):**
 
 
 
