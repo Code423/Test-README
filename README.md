@@ -47,36 +47,36 @@ for a program that stores daily task data and generates a monthly report about i
 ### My Projects
 
 - **Automation & Utilities**:
-    
-    ### 1- Password Generato:
-    
-    > - A software to generate storng passwords
-    
-    > - Tech: Using Python's random, string, os, and time modules
-    
-    > - **[Password-Generator](https://github.com/Anas-Sasa/Password-Generator):**
-    
-    
-    ### 2- Contact Management:
-    
-    > - A procedural programming exercise designed to practice core Python and strengthen skills
-    
-    > - Focus on:  Practicing functions, loops, conditionals, dictioneries and data structures
-    
-    > - Tech: Using Python
-    
-    > - **[Contact-Management](https://github.com/Anas-Sasa/Contact-Management):**
-    
-    
-    ### 3- Task-Tracker (File System & Data Automation):
-    
-    > - An automation tool that manages local data storage through dynamic directory and CSV file generation.
-    
-    > - Focus on: Object-Oriented Programming (OOP), File I/O automation, and hierarchical data structures.
-    
-    > - Tech: Python (OS, CSV, and Pathlib modules).
-    
-    > - **[Task-Tracker](https://github.com/Anas-Sasa/Task-Tracker)**
+  
+  ### 1- Password Generato:
+  
+  > - A software to generate storng passwords
+  
+  > - Tech: Using Python's random, string, os, and time modules
+  
+  > - **[Password-Generator](https://github.com/Anas-Sasa/Password-Generator):**
+  
+  
+  ### 2- Contact Management:
+  
+  > - A procedural programming exercise designed to practice core Python and strengthen skills
+  
+  > - Focus on:  Practicing functions, loops, conditionals, dictioneries and data structures
+  
+  > - Tech: Using Python
+  
+  > - **[Contact-Management](https://github.com/Anas-Sasa/Contact-Management):**
+  
+  
+  ### 3- Task-Tracker (File System & Data Automation):
+  
+  > - An automation tool that manages local data storage through dynamic directory and CSV file generation.
+  
+  > - Focus on: Object-Oriented Programming (OOP), File I/O automation, and hierarchical data structures.
+  
+  > - Tech: Python (OS, CSV, and Pathlib modules).
+  
+  > - **[Task-Tracker](https://github.com/Anas-Sasa/Task-Tracker)**
 
 ***
 
