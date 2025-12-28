@@ -62,7 +62,8 @@
 
 > - Tech: Using Python
 
-> - 📂 Repository: https://github.com/Anas-Sasa/Contact-Management.git
+> - 📂 Repository: **[Contact-Management](https://github.com/Anas-Sasa/Contact-Management):**
+> - **[Contact-Management](https://github.com/Anas-Sasa/Contact-Management):**
 
 
 ### 3- Hang-Man-Game:
