@@ -44,9 +44,9 @@ for a program that stores daily task data and generates a monthly report about i
 
 ***
   
-- ### My Projects
+### My Projects
 
-**Automation & Utilities**:
+- **Automation & Utilities**:
 
 ### 1- Password Generato:
 
