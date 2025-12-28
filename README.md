@@ -62,7 +62,7 @@
 
 > - Tech: Using Python
 
-> - 📂 Repository: **[Contact-Management](https://github.com/Anas-Sasa/Contact-Management):**
+> - 📂 Repository:  **[Contact-Management](https://github.com/Anas-Sasa/Contact-Management):**
 > - **[Contact-Management](https://github.com/Anas-Sasa/Contact-Management):**
 
 
