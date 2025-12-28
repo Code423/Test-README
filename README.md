@@ -8,6 +8,7 @@
 
 ### 🔭 I’m currently working on:
 
+> **✨ Update:**
 > - **Task-Tracker (Completed & Active):** Successfully built and deployed a Python program that logs daily task data and generates automated monthly activity reports.
 > - **Data Automation:** Continuously refining the data pipeline for my `Task-Tracker` repo to ensure seamless daily updates.
 > - **Problem Solving:** Applying Python logic to optimize my personal workflow and reporting systems.
