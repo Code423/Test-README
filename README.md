@@ -3,6 +3,8 @@
 > - I'm an aspiring developer currently learning the fundamentals of software development. 
 > - I'm currently on a journey to dive deeper into the Python ecosystem.
 > - I'm passionate about building clean, automation my tasks and code some projects to strengthen my skills.
+*****************************************************
+Anas the king of the Netherlands
 
 ### 🚀 About Me
 
