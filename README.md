@@ -3,15 +3,13 @@
 > - I'm an aspiring developer currently learning the fundamentals of software development. 
 > - I'm currently on a journey to dive deeper into the Python ecosystem.
 > - I'm passionate about building clean, automation my tasks and code some projects to strengthen my skills.
-*****************************************************
-Anas the king of the Netherlands
 
 ### 🚀 About Me
 
 ### 🔭 I’m currently working on:
 
 > - Improving my problem-solving with Python by working at this moment, on a structural plan<br>
-for a program that stores daily task data and generates a monthly report about its activities,<br>using the Python language.
+    for a program that stores daily task data and generates a monthly report about its activities,<br>using the Python language.
 
 > **✨ Update:**
 > - **Task-Tracker (Completed & Active):** Successfully built and deployed a Python program that logs daily task data and generates automated monthly activity reports.
