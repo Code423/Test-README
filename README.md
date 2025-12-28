@@ -62,7 +62,6 @@
 
 > - Tech: Using Python
 
-> - 📂 Repository:  **[Contact-Management](https://github.com/Anas-Sasa/Contact-Management):**
 > - **[Contact-Management](https://github.com/Anas-Sasa/Contact-Management):**
 
 
@@ -74,7 +73,7 @@
 
 > - Tech: Using Python's os, random, time modules
 
-> - 📂 Repository: https://github.com/Anas-Sasa/Hang-Man-game.git
+> - **[Hang-Man-game](https://github.com/Anas-Sasa/Hang-Man-game):**
 
 
 ### 4- Blackjack-Game:
