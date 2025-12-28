@@ -16,8 +16,7 @@ for a program that stores daily task data and generates a monthly report about i
 > - **Data Automation:** Continuously refining the data pipeline for my `Task-Tracker` repo to ensure seamless daily updates.
 > - **Problem Solving:** Applying Python logic to optimize my personal workflow and reporting systems.
 
-### 🛠️ Featured Project
-* **[Task-Tracker](https://github.com/Anas-Sasa/Task-Tracker)** - A tool that transforms daily logs into structured monthly insights.
+> - **[Task-Tracker](https://github.com/Anas-Sasa/Task-Tracker)** - A tool that transforms daily logs into structured monthly insights.
 
 
 ### 🌱 I’m currently learning: 
