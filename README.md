@@ -17,15 +17,17 @@ A robust Command Line Interface (CLI) tool designed to track hierarchical task d
 - `analytical_tools/`: (Under Development) Future module for statistical analysis and reporting.
 
 
+
+### 🚀 About Me
+
+### 🔭 I’m currently working on:
+
 > - **Task-Tracker (Completed & Active):** Successfully built and deployed a Python program that logs daily task data and generates automated monthly activity reports.
 > - **Data Automation:** Continuously refining the data pipeline for my `Task-Tracker` repo to ensure seamless daily updates.
 > - **Problem Solving:** Applying Python logic to optimize my personal workflow and reporting systems.
 
 ### 🛠️ Featured Project
 * **[Task-Tracker](https://github.com/your-github-username/Task-Tracker)** - A tool that transforms daily logs into structured monthly insights.
-
-
-
 
 
 
