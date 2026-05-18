@@ -144,27 +144,27 @@
 
 # ---
 
-1- Productontdekking
+### 1- Productontdekking:
 
-• Doelstelling: Identificeer 20+ ruwe productideeën met een bewezen virale tractie.
+> -  Doelstelling: Identificeer 20+ ruwe productideeën met een bewezen virale tractie.
 
-• Tool: Minea & Sell The Trend
+> -  Tool: Minea & Sell The Trend
 
-• Waarom: Minea is de proactieve ad-radar; spot trends op TikTok/FB vóórdat ze op de marktplaatsen landen.
+> -  Waarom: Minea is de proactieve ad-radar; spot trends op TikTok/FB vóórdat ze op de marktplaatsen landen.
 
-• Acties: Scan Minea met NL/BE landfilters; verzamel trending e-commerce advertenties.
+> -  Acties: Scan Minea met NL/BE landfilters; verzamel trending e-commerce advertenties.
 
-• Output: Een ruwe lijst van 20 productkandidaten met een hoge virale potentie.
+> -  Output: Een ruwe lijst van 20 productkandidaten met een hoge virale potentie.
 
-• Frequentie: Wekelijks (Maandag ochtend / 60 min)
+> -  Frequentie: Wekelijks (Maandag ochtend / 60 min)
 
-• Automatisering: Stel Minea e-mailalerts in voor snelgroeiende e-commerce advertenties in NL/BE.
+> -  Automatisering: Stel Minea e-mailalerts in voor snelgroeiende e-commerce advertenties in NL/BE.
 
-• Prioriteit: Hoog
+> -  Prioriteit: Hoog
 
-• KPI: 20 ruwe ideeën gefilterd naar 5.
+> -  KPI: 20 ruwe ideeën gefilterd naar 5.
 
-• Opmerkingen: Voorkom reactieve inkoop; focus op consumentenvraag in plaats van historische marktdata.
+> -  Opmerkingen: Voorkom reactieve inkoop; focus op consumentenvraag in plaats van historische marktdata.
 
 _________________________________________						
 2- Trendvalidatie
