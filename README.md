@@ -147,15 +147,25 @@
 1- Productontdekking
 
 • Doelstelling: Identificeer 20+ ruwe productideeën met een bewezen virale tractie.
+
 • Tool: Minea & Sell The Trend
+
 • Waarom: Minea is de proactieve ad-radar; spot trends op TikTok/FB vóórdat ze op de marktplaatsen landen.
+
 • Acties: Scan Minea met NL/BE landfilters; verzamel trending e-commerce advertenties.
+
 • Output: Een ruwe lijst van 20 productkandidaten met een hoge virale potentie.
+
 • Frequentie: Wekelijks (Maandag ochtend / 60 min)
+
 • Automatisering: Stel Minea e-mailalerts in voor snelgroeiende e-commerce advertenties in NL/BE.
+
 • Prioriteit: Hoog
+
 • KPI: 20 ruwe ideeën gefilterd naar 5.
+
 • Opmerkingen: Voorkom reactieve inkoop; focus op consumentenvraag in plaats van historische marktdata.
+
 _________________________________________						
 2- Trendvalidatie
 
@@ -261,7 +271,7 @@ _________________________________________
 • KPI: Bol.com verkoopvolume evenaren of overtreffen op Amazon binnen 60 dagen.
 • Opmerkingen: Gebruik Amazon.de data via Jungle Scout als sterke proxy voor het NL/BE Amazon-gedrag.
 _________________________________________						
-10-. Winst Management
+10- Winst Management
 
 • Doelstelling: Centraliseer en bewaak alle marges en winsten op één dashboard.
 • Tool: FiveX
@@ -274,7 +284,7 @@ _________________________________________
 • KPI: 100% accuraat inzicht in de netto-winstgevendheid over alle verkoopkanalen heen.
 • Opmerkingen: Voorkomt dat verborgen retourkosten of advertentie-uitgaven je marge ongemerkt opeten.
 _________________________________________						
-11-. Continue Monitoring
+11- Continue Monitoring
 
 • Doelstelling: Behoud ecosysteemgezondheid met minimale handmatige overhead.
 • Tool: FiveX & Bol.com Platform
@@ -288,9 +298,6 @@ _________________________________________
 • Opmerkingen: Schrap losse, onoverzichtelijke Excel-sheets; FiveX is hier je centrale waarheid.
 _________________________________________						
 
-  
-  
-  
   
   
   
